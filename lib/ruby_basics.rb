@@ -37,6 +37,6 @@ end
 
 def pizza_party(flavor="cheese")
 
-
+  return flavor
 
 end
