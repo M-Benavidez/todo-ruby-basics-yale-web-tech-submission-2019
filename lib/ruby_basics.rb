@@ -11,9 +11,9 @@ def assign_variable(value)
 
 end
 
-def argue
+def argue(arg1)
 
-  return argue
+  return arg1
 
 end
 
